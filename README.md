@@ -11,6 +11,7 @@ import 'package:lunar_calendar/lunar_calendar.dart';
 
 <br>
 Convert calendar from one to another between lunar calendar and solar calendar.
+<br>
 For example:
 
 ```dart
@@ -21,6 +22,6 @@ print(lunarJa); //[30, 10, 2020]
 ```
 
 <br>
-Refers:
+## Refers:
 <br>
 <a href="https://www.informatik.uni-leipzig.de/~duc/amlich/calrules_en.html">Computing the Vietnamese lunar calendar</a>
