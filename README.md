@@ -22,6 +22,5 @@ print(lunarJa); //[30, 10, 2020]
 ```
 
 <br>
-## Refers:
-<br>
+## Refers
 <a href="https://www.informatik.uni-leipzig.de/~duc/amlich/calrules_en.html">Computing the Vietnamese lunar calendar</a>
